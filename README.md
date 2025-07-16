@@ -2,5 +2,5 @@
 
 - Tema
 
--Participantes
+- Participantes
   *Renan Trajano da Conceição
