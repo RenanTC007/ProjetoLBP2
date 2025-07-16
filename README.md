@@ -1,6 +1,6 @@
 # ProjetoLBP2
 
-- Tema
+* Tema
 
-- Participantes
-  *Renan Trajano da Conceição
+* Participantes
+  - Renan Trajano da Conceição
